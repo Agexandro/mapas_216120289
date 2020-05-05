@@ -1,0 +1,4 @@
+#Sat May 02 00:40:58 CDT 2020
+base.0=/home/age/AndroidStudioProjects/mapas/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
